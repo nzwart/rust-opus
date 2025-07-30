@@ -1,0 +1,13 @@
+[package]
+name = "rust-opus-test"
+version = "0.1.0"
+edition = "2021"
+default-run = "rust-opus-test"
+
+[dependencies]
+anyhow = "1.0.95"
+console = "0.15.10"
+cpal = "0.15.3"
+hound = "3.5.1"
+opus = "0.3.0"
+rand = "0.8.5"
