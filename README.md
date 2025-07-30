@@ -63,6 +63,6 @@ if let Some(received_packet) = network.simulate_network(encoded) {
 }
 ```
 
-## Musical?
+## But is it musical?
 
-And ultimately, it worked! But it wasn't musical... It just made me think of someone playing a guitar or keyboard through a choppy Zoom call. And it didn't have the intentional feel that an audio effect should have. Ultimately, it was a useful technical exercise, but I wouldn't expect to make an album with it.
+And ultimately, it worked! But it wasn't musically useful... It just made me think of someone playing a guitar or keyboard through a choppy Zoom call. And it didn't have the intentional feel that an audio effect should have. Ultimately, it was a useful technical exercise, but I wouldn't expect to make an album with it.
