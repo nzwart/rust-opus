@@ -1,4 +1,4 @@
-# Rust Zoom Call Simulator
+# Zoom Call Glitch Simulator
 
 Like many, I've spent enough time on zoom calls to know that sometimes, when the connection is bad, they can sound pretty weird. But it got me thinking -- what possibilities would there be to hardness that bad connection for musical means? [Glitch](<https://en.wikipedia.org/wiki/Glitch_(music)>) is an entire musical genre, after all. So, I decided to build a simulator that could mimic packet loss, latency, and jitter in a networked audio stream, and see what happens when you apply these conditions to musical input.
 
